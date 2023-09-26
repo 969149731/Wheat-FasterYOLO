@@ -11,5 +11,8 @@ Demonstration of the effect of tracking counts under a UAV.
 python track.py
 ```
 
-## thanks
+## Thanks
 Thanks to the yolov5 team：https://github.com/ultralytics/yolov5
+
+## Model Provider
+Jie Chen,Guangxi University in China
